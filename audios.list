@@ -1,0 +1,4 @@
+# Each line is the direct path to an audio file to play
+# The program loads them in on start, so modifying this file requires a program restart
+/home/interfiber/Music/VanhshingUnderground.mp3
+example.mp3

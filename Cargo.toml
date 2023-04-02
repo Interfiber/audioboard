@@ -1,0 +1,15 @@
+[package]
+name = "audio-board"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ctrlc = "3.2.5"
+lazy_static = "1.4.0"
+log = "0.4.17"
+parking_lot = "0.12.1"
+playback-rs = "0.4.2"
+pretty_env_logger = "0.4.0"
+rdev = "0.5.2"
